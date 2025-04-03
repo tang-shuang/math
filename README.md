@@ -1,42 +1,41 @@
 # math
 Learn math knowledge
-1. Basic Mathematics
-  * Arithmetic: The study of basic number operations (addition, subtraction, multiplication, division) and their properties.
-  * Elementary Algebra: The study of basic algebraic concepts such as variables, equations, and inequalities.
+1. 基础数学
+* 算术：研究基本数字运算（加、减、乘、除）及其性质。
+* 初等代数：研究变量、方程与不等式等基础代数概念。
 
-2. Pure Mathematics
-  * Algebra:
-    * Linear Algebra: The study of vector spaces, linear mappings, matrices, and related concepts.
-    * Abstract Algebra: The study of algebraic structures such as groups, rings, and fields.
-      
-  * Analysis:
-    * Calculus: The study of functions, limits, derivatives, and integrals.
-    * Real Analysis: The study of real numbers, functions, sequences, and series.
-    * Complex Analysis: The study of complex numbers and their functions.
-      
-  * Geometry:
-    * Euclidean Geometry: The study of geometric properties in planes and spaces.
-    * Differential Geometry: The study of curves, surfaces, and manifolds.
-    * Topology: The study of properties of space that are invariant under continuous deformations.
-      
-  * Number Theory: The study of properties of integers and their relationships, including primes, congruences, and more.
+2. 纯数学
+* 代数：
+  * 线性代数：研究向量空间、线性映射、矩阵及相关概念。
+  * 抽象代数：研究群、环、域等代数结构。
+* 分析：
+  * 微积分：研究函数、极限、导数与积分。
+  * 实分析：研究实数、函数、序列与级数。
+  * 复分析：研究复数及其函数。
+* 几何：
+  * 欧几里得几何：研究平面与空间中的几何性质。
+  * 微分几何：研究曲线、曲面与流形。
+  * 拓扑学：研究空间在连续变形下的不变性质。
+  * 数论：研究整数的性质及其关系，包括素数、同余等。
 
-3. Applied Mathematics
-  * Probability Theory: The study of random events and their probabilities.
-  * Statistics: The study of data collection, analysis, interpretation, and presentation.
-  * Numerical Analysis: The study of the design, analysis, and implementation of numerical algorithms.
-  * Operations Research: The study of optimization problems, such as linear programming and dynamic programming.
-  * Mathematical Physics: The application of mathematical methods to solve physical problems.
+3. 应用数学:
+* 概率论：研究随机事件及其概率。
 
-4. Discrete Mathematics
-  * Combinatorics: The study of combinations and arrangements of discrete structures.
-  * Graph Theory: The study of graphs and their properties.
-  * Logic and Set Theory: The study of logical reasoning and the properties of sets.
+* 统计学：研究数据收集、分析、解释与呈现。
 
-5. Computational Mathematics
-  * Mathematics in Computer Science: The study of algorithms, computational complexity, cryptography, and more.
-  * Computational Geometry: The study of algorithms for solving geometric problems.
+* 数值分析：研究数值算法的设计、分析与实现。
 
-6. Other Branches
-  * History of Mathematics: The study of the historical development of mathematics.
-  * Mathematics Education: The study of methods and theories for teaching mathemat
+* 运筹学：研究优化问题（如线性规划、动态规划）。
+
+4. 数学物理：
+   * 应用数学方法解决物理问题。
+
+5. 离散数学
+* 组合数学：研究离散结构的组合与排列。
+* 图论：研究图及其性质。
+* 逻辑与集合论：研究逻辑推理与集合的性质。
+
+6. 计算数学
+* 计算机科学中的数学：研究算法、计算复杂性、密码学等。
+* 计算几何：研究解决几何问题的算法。
+
